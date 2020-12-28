@@ -24,4 +24,4 @@ The dataset is comprised of tab-separated files with phrases from the Rotten Tom
             5. positive
 
 ### To view this Project
-Download this repo and open **Major Project.html** in browser
+Download this repo and open **Project.html** in browser
