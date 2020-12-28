@@ -13,7 +13,11 @@ The dataset is comprised of tab-separated files with phrases from the Rotten Tom
 
 The sentiment labels are:
     1. negative
+    
     2. somewhat negative
+    
     3. neutral
+    
     4. somewhat positive
+    
     5. positive
