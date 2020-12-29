@@ -1,4 +1,4 @@
-# *Classification-of-Rotten-Tomato-Reviews*
+# *Classification of Rotten Tomato Reviews*
 
 "There's a thin line between likably old-fashioned and fuddy-duddy, and The Count of Monte Cristo ... never quite settles on either side."
 
